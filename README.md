@@ -30,7 +30,7 @@
 ![Screenshot (18)](https://user-images.githubusercontent.com/110352036/214044228-f7b3c7e2-6af0-4957-84bc-53e1348793d7.png)
 ## 4. Output:
 	hey from message1
-	hey from main controller
+	hey from Main controller
 	hey from message3
 	hey from message2
 	
@@ -42,7 +42,7 @@
 ## 5. Output:
 	hey from message3
 	hey from message2
-	hey from Main Controller
+	hey from Main controller
 	hey from message1
 
 
