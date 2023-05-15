@@ -11,9 +11,9 @@
 ## 2
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/110352036/214044044-8daab2c3-5e06-493c-be5b-49ca49598975.png)
-##2. Output:
-	###Hey from message1
-	###Hey from message2
+## 2. Output:
+	### Hey from message1
+	### Hey from message2
 
 
 ## 3
